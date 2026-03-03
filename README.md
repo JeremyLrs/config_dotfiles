@@ -1,2 +1,2 @@
-# 👋 Welcome to my dotfiles repository
+👋 Welcome to my dotfiles repository ☀️
 
