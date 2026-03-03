@@ -23,3 +23,6 @@
 !.config/oh-my-posh/
 !.config/oh-my-posh/**
 
+# zsh_config_terminal
+!.config/zshconfig_terminal/**
+
