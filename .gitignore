@@ -1,0 +1,25 @@
+# Ignore everything
+*
+
+# Except repo files
+!.gitignore
+!README.md
+!LICENSE
+
+# Zsh
+!.zshrc
+!help.sh
+
+
+# Config folder
+!.config/
+
+
+# Nvim
+!.config/nvim/
+!.config/nvim/**
+
+# Oh my posh
+!.config/ohmyposh/
+!.config/ohmyposh/**
+
